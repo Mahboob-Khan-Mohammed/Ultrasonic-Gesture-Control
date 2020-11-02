@@ -2,8 +2,6 @@
 
 Ultrasoinc gesture control
 
-Gesture controlled flappy bird.
-
 In this project, I explored the possibility of using a low-end sensor commonly known as an ultrasonic sensor to control a flappy bird through gestures. The idea is simple, use the ultrasonic sensor to find out the distance of the hand hovering above the sensor and when the distance decreases make the bird move up.
 
 Ultrasonic sensor(HC-SR04) :
